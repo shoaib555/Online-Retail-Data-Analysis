@@ -17,5 +17,5 @@ The following modelling approach was used in the project:
 Loading and cleaning the raw data
 Exploratory Data Analysis
 Market Basket Analysis using Association Mining
-Customer Segmentation using RFM 
+Customer Segmentation using RFM,
 The deatiled analysis can be found in the Rmd file
